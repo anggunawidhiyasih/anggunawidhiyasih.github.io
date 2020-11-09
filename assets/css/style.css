@@ -98,12 +98,15 @@ nav{
     flex-direction: column;
  }
  .heading h1 {
-    font-size:70px ;
+   top: 5cm;
+   right: -8cm;
+    font-size:60px ;
     position: absolute;
     color: #FEF056;
  }
  .heading p{
-     top: 5cm;
+     top: 10cm;
+     right: 3cm;
     font-size:50px ;
     position: absolute;
     color: #ECB88C;
@@ -116,40 +119,40 @@ nav{
  }
 .nav-distro{
     position: absolute;
-    left: 37cm;
+    left: 30cm;
     top: 14cm;
 }
 .nav-info{
     position: absolute;
-    top: 36cm;
-    left: 20cm;
+    top: 34cm;
+    left: 14.5cm;
 }
  .nav-skill{
     position: absolute;
-    top: 25cm;
+    top: 23cm;
   }
    .nav-pendidikan{
     position: absolute;
-    left: 19cm;
-    top: 27cm;
+    left: 13cm;
+    top: 25cm;
    }
    .nav-ektrak{
     position: absolute;
-    left: 35cm;
-    top: 35cm;
+    left: 25cm;
+    top: 32cm;
    }
    .nav-populer{
     position: absolute;
-    left: 35cm;
-    top: 35cm;
+    right: 25cm;
+    top: 15cm;
    }
    .nav-dota{
      position: absolute;
-    left: 22cm;
+    left: 14cm;
     top: 35cm;}
    .nav-idv{
     position: absolute;
-    left: 10cm;
+    left: 7cm;
     top: 26.5cm;
    }
    .nav-pubg{
@@ -159,9 +162,15 @@ nav{
    }
    .nav-genshin{
     position: absolute;
-    left: 33cm;
+    left: 23cm;
     top: 25cm;
    }
+   .nav-mutiara{
+      position: absolute;
+      left: 12.5cm;
+      top: 58cm;
+     }
+   
 
 
 
