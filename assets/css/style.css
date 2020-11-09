@@ -19,7 +19,7 @@ nav{
  button.btn-go{
     transform: translate(1150%);
     position: absolute;
-    bottom: 910px;
+    bottom: 845px;
      background-color: #FEF056;
      padding: 16px 40px;
      border: none;
@@ -75,7 +75,7 @@ nav{
  }
  .videoo{
     position: absolute;
-    left: 20cm;
+    left:25cm;
     top: 4cm;
     
  }
@@ -84,12 +84,12 @@ nav{
     width: 302px;
     height: auto;
     margin-bottom: 10%;
-   left: 2cm;
+   left: 7cm;
  }
 
  .heading {
-     bottom: 15cm;
-     right: 10cm;
+     bottom: 20cm;
+     right: 25gitcm;
     transform: translate(150%);
     position: absolute;
     color: white;
