@@ -19,7 +19,8 @@ nav{
  button.btn-go{
     transform: translate(1150%);
     position: absolute;
-    bottom: 845px;
+   top: 35px;
+   left: -480px;
      background-color: #FEF056;
      padding: 16px 40px;
      border: none;
@@ -32,8 +33,8 @@ nav{
  button.neon-button{
     transform: translate(0%);
     position: absolute;
-    top: 700px;
-    left: 250px;
+    top: 500px;
+    left: 170px;
     border: 3px solid #ffa9b7;
     background: #010101;
     padding: 20px 40px;
@@ -57,17 +58,17 @@ nav{
  }
  .nav-HOME{
     position: absolute;
-    left:  1100px;
+    left:  800px;
     top: 1.3cm;
  }
  .nav-GAMES{
     position: absolute;
-    left:  1350px;
+    left:  1000px;
     top: 1.3cm;
  }
  .nav-ABOUT{
     position: absolute;
-    left:  1600px;
+    left:  1200px;
     top: 1.3cm;
  }
  .nav-rubik{
@@ -75,16 +76,17 @@ nav{
  }
  .videoo{
     position: absolute;
-    left:25cm;
+    left:20cm;
     top: 4cm;
     
  }
  .NKL{
     position: absolute; 
-    width: 302px;
+    width: 30px;
     height: auto;
-    margin-bottom: 10%;
-   left: 7cm;
+    margin-bottom: 60cm;
+     left: 4.5cm;
+     top: 5cm;
  }
 
  .heading {
