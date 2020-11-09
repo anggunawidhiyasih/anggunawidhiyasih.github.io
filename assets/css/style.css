@@ -170,7 +170,21 @@ nav{
       left: 12.5cm;
       top: 58cm;
      }
-   
+     .nav-fb{
+      position: absolute;
+      top: 44cm;
+   left: 19cm;
+  }
+  .nav-dc{
+   position: absolute;
+   top: 44cm;
+   left: 23cm;
+}
+.nav-ig{
+   position: absolute;
+   top: 44cm;
+   left: 15cm;
+}
 
 
 
