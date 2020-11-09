@@ -80,10 +80,10 @@ nav{
     
  }
  .NKL{
-    position: absolute;
-    width: 1440px;
-    top: 20%;
-    left: 12%;
+    /* position: absolute; */
+    width: 232px;
+    height: auto;
+    margin-top: 10%;
  }
 
  .heading {
